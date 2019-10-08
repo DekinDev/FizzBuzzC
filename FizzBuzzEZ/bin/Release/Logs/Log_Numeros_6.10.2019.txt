@@ -1,0 +1,37 @@
+6/10/2019 - 18:51:51|: Nueva Partida - 1 Jugador
+6/10/2019 - 18:51:56|: 52
+6/10/2019 - 18:51:57|: 49
+6/10/2019 - 18:51:58|: 3 / Fizz
+6/10/2019 - 18:52:1|: 21 / Fizz
+6/10/2019 - 19:1:38|: Fin de la Partida
+6/10/2019 - 19:1:42|: Nueva Partida - 1 Jugador
+6/10/2019 - 19:2:21|: Nueva Partida - 1 Jugador
+6/10/2019 - 19:2:24|: Fin de la Partida
+6/10/2019 - 19:6:25|: Nueva Partida - 1 Jugador
+6/10/2019 - 19:6:27|: Fin de la Partida
+6/10/2019 - 19:11:33|: Nueva Partida - 1 Jugador
+6/10/2019 - 19:11:56|: Fin de la Partida
+6/10/2019 - 19:14:23|: Nueva Partida - 1 Jugador
+6/10/2019 - 19:14:24|: Fin de la Partida
+6/10/2019 - 19:14:25|: Nueva Partida - 2 Jugadores
+6/10/2019 - 19:14:25|: Fin de la Partida
+6/10/2019 - 19:14:26|: Nueva Partida - 5 Jugadores
+6/10/2019 - 19:14:26|: Fin de la Partida
+6/10/2019 - 19:14:26|: Nueva Partida - 4 Jugadores
+6/10/2019 - 19:14:40|: Fin de la Partida
+6/10/2019 - 19:22:54|: Fin de la Partida
+6/10/2019 - 19:24:15|: Nueva Partida - 1 Jugador
+6/10/2019 - 19:24:17|: 67
+6/10/2019 - 19:24:24|: 48 / Fizz
+6/10/2019 - 19:24:38|: Fin de la Partida
+6/10/2019 - 19:24:39|: Nueva Partida - 2 Jugadores
+6/10/2019 - 19:24:40|: 78 / Fizz
+6/10/2019 - 19:24:46|: 5 / Buzz
+6/10/2019 - 19:24:48|: Fin de la Partida
+6/10/2019 - 19:24:49|: Nueva Partida - 6 Jugadores
+6/10/2019 - 19:24:50|: 9 / Fizz
+6/10/2019 - 19:24:54|: 62
+6/10/2019 - 19:24:57|: 71
+6/10/2019 - 19:25:2|: 86
+6/10/2019 - 19:25:4|: 58
+6/10/2019 - 19:25:6|: 81 / Fizz

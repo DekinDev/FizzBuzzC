@@ -1,0 +1,9 @@
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\bin\Debug\FizzBuzzEZ.exe.config
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\bin\Debug\FizzBuzzEZ.exe
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\bin\Debug\FizzBuzzEZ.pdb
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Debug\FizzBuzzEZ.csprojResolveAssemblyReference.cache
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Debug\FizzBuzzEZ.Form1.resources
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Debug\FizzBuzzEZ.Properties.Resources.resources
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Debug\FizzBuzzEZ.csproj.GenerateResource.Cache
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Debug\FizzBuzzEZ.exe
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Debug\FizzBuzzEZ.pdb

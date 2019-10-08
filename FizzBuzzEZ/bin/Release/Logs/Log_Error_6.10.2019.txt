@@ -1,0 +1,57 @@
+﻿6/10/2019 - 18:25:54|: INFO: Load Form1
+6/10/2019 - 18:51:56|: INFO: Botón ingresar numero
+6/10/2019 - 18:51:56|: Inicio Funcion: NumberControl
+6/10/2019 - 18:51:56|: Fin Funcion: NumberControl
+6/10/2019 - 18:51:57|: INFO: Botón ingresar numero
+6/10/2019 - 18:51:57|: Inicio Funcion: NumberControl
+6/10/2019 - 18:51:57|: Fin Funcion: NumberControl
+6/10/2019 - 18:51:58|: INFO: Botón ingresar numero
+6/10/2019 - 18:51:58|: Inicio Funcion: NumberControl
+6/10/2019 - 18:51:58|: Fin Funcion: NumberControl
+6/10/2019 - 18:52:1|: INFO: Botón ingresar numero
+6/10/2019 - 18:52:1|: Inicio Funcion: NumberControl
+6/10/2019 - 18:52:1|: Fin Funcion: NumberControl
+6/10/2019 - 18:54:25|: ERROR: La cadena de entrada no tiene el formato correcto.
+6/10/2019 - 18:54:26|: INFO: Botón ingresar numero
+6/10/2019 - 18:54:26|: WARNING: No hay número
+6/10/2019 - 18:56:4|: INFO: Load Form1
+6/10/2019 - 19:1:41|: INFO: Load Form1
+6/10/2019 - 19:2:20|: INFO: Load Form1
+6/10/2019 - 19:2:21|: ERROR: Operación no válida a través de subprocesos: Se tuvo acceso al control 'TXT' desde un subproceso distinto a aquel en que lo creó.
+6/10/2019 - 19:2:23|: ERROR: Operación no válida a través de subprocesos: Se tuvo acceso al control 'TXT' desde un subproceso distinto a aquel en que lo creó.
+6/10/2019 - 19:5:58|: INFO: Load Form1
+6/10/2019 - 19:6:24|: INFO: Load Form1
+6/10/2019 - 19:11:33|: INFO: Load Form1
+6/10/2019 - 19:14:23|: INFO: Load Form1
+6/10/2019 - 19:19:18|: INFO: Load Form1
+6/10/2019 - 19:24:6|: INFO: Load Form1
+6/10/2019 - 19:24:17|: INFO: Botón ingresar numero
+6/10/2019 - 19:24:17|: Inicio Funcion: NumberControl
+6/10/2019 - 19:24:17|: Fin Funcion: NumberControl
+6/10/2019 - 19:24:24|: INFO: Botón ingresar numero
+6/10/2019 - 19:24:24|: Inicio Funcion: NumberControl
+6/10/2019 - 19:24:24|: Fin Funcion: NumberControl
+6/10/2019 - 19:24:40|: INFO: Botón ingresar numero
+6/10/2019 - 19:24:40|: Inicio Funcion: NumberControl
+6/10/2019 - 19:24:40|: Fin Funcion: NumberControl
+6/10/2019 - 19:24:46|: INFO: Botón ingresar numero
+6/10/2019 - 19:24:46|: Inicio Funcion: NumberControl
+6/10/2019 - 19:24:46|: Fin Funcion: NumberControl
+6/10/2019 - 19:24:50|: INFO: Botón ingresar numero
+6/10/2019 - 19:24:50|: Inicio Funcion: NumberControl
+6/10/2019 - 19:24:50|: Fin Funcion: NumberControl
+6/10/2019 - 19:24:54|: INFO: Botón ingresar numero
+6/10/2019 - 19:24:54|: Inicio Funcion: NumberControl
+6/10/2019 - 19:24:54|: Fin Funcion: NumberControl
+6/10/2019 - 19:24:57|: INFO: Botón ingresar numero
+6/10/2019 - 19:24:57|: Inicio Funcion: NumberControl
+6/10/2019 - 19:24:57|: Fin Funcion: NumberControl
+6/10/2019 - 19:25:2|: INFO: Botón ingresar numero
+6/10/2019 - 19:25:2|: Inicio Funcion: NumberControl
+6/10/2019 - 19:25:2|: Fin Funcion: NumberControl
+6/10/2019 - 19:25:4|: INFO: Botón ingresar numero
+6/10/2019 - 19:25:4|: Inicio Funcion: NumberControl
+6/10/2019 - 19:25:4|: Fin Funcion: NumberControl
+6/10/2019 - 19:25:6|: INFO: Botón ingresar numero
+6/10/2019 - 19:25:6|: Inicio Funcion: NumberControl
+6/10/2019 - 19:25:6|: Fin Funcion: NumberControl

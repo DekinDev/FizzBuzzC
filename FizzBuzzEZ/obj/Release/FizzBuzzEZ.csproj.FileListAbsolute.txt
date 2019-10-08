@@ -1,0 +1,42 @@
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\bin\Release\FizzBuzzEZ.exe.config
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Release\Interop.WMPLib.dll
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Release\AxInterop.WMPLib.dll
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.csproj.ResolveComReference.cache
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\bin\Release\FizzBuzzEZ.exe
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\bin\Release\FizzBuzzEZ.pdb
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\bin\Release\Interop.WMPLib.dll
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\bin\Release\AxInterop.WMPLib.dll
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.Form1.resources
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.Properties.Resources.resources
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.csproj.GenerateResource.Cache
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.exe
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.pdb
+c:\users\dualplaysx\documents\visual studio 2013\Projects\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.csprojResolveAssemblyReference.cache
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\bin\Release\FizzBuzzEZ.exe.config
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\obj\Release\Interop.WMPLib.dll
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.csproj.ResolveComReference.cache
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.exe
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.pdb
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\bin\Release\FizzBuzzEZ.exe
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\bin\Release\FizzBuzzEZ.pdb
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\bin\Release\Interop.WMPLib.dll
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.csprojResolveAssemblyReference.cache
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.Form1.resources
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.Properties.Resources.resources
+C:\Users\DualPlaysX\Desktop\FizzBuzzEZ\FizzBuzzEZ\obj\Release\FizzBuzzEZ.csproj.GenerateResource.Cache
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\bin\Release\FizzBuzzEZ.exe.config
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\obj\Release\Interop.WMPLib.dll
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\obj\Release\AxInterop.WMPLib.dll
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\obj\Release\FizzBuzzEZ.csproj.ResolveComReference.cache
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\obj\Release\FizzBuzzEZ.exe
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\obj\Release\FizzBuzzEZ.pdb
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\bin\Release\FizzBuzzEZ.exe
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\bin\Release\FizzBuzzEZ.pdb
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\bin\Release\Interop.WMPLib.dll
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\obj\Release\FizzBuzzEZ.csprojResolveAssemblyReference.cache
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\obj\Release\FizzBuzzEZ.Form1.resources
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\obj\Release\FizzBuzzEZ.Properties.Resources.resources
+C:\Users\DualPlaysX\Desktop\Proyecto Fizz-Buzz\FizzBuzzApp - Acabado\Edit\FizzBuzzEZ\obj\Release\FizzBuzzEZ.csproj.GenerateResource.Cache
