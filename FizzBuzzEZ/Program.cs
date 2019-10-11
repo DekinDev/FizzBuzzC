@@ -24,7 +24,7 @@ namespace FizzBuzzEZ
                 }
                 else
                 {
-                    MessageBox.Show("FizzBuzz ya está abierto.", "Repack Downloader", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("FizzBuzz ya está abierto.", "Fizz-Buzz", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
         }
